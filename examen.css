@@ -236,6 +236,17 @@ table, td, th {
   }
   
   table {
-    width: 100%;
+    width: 80%;
     border-collapse: collapse;
+    margin: auto;
+    background-color: lightgrey;
+  }
+  .HOTEL{
+      background-color: lightsalmon;
+  }
+  .PRECIO{
+    background-color: lightsalmon;
+}
+  .aviso{
+    text-align: center;
   }
